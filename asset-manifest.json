@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/NewsPanda/static/js/main.ad875a35.js",
+    "main.js": "/NewsPanda/static/js/main.ca6981e8.js",
     "static/media/loading.gif": "/NewsPanda/static/media/loading.d3fbaf2b81fd92c49692.gif",
     "index.html": "/NewsPanda/index.html",
-    "main.ad875a35.js.map": "/NewsPanda/static/js/main.ad875a35.js.map"
+    "main.ca6981e8.js.map": "/NewsPanda/static/js/main.ca6981e8.js.map"
   },
   "entrypoints": [
-    "static/js/main.ad875a35.js"
+    "static/js/main.ca6981e8.js"
   ]
 }
